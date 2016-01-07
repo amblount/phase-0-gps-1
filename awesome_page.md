@@ -12,4 +12,3 @@
 
 [This is our screen shot](/Users/aliviamarciablount/dev_boot_camp/week-2-test/phase-0-gps-1/screen.shot.jpg)
 
-*this is a small conflict :)*
